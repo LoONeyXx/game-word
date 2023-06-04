@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/game-word/static/css/main.bf07bcb1.css",
+    "main.js": "/game-word/static/js/main.48b2f0ef.js",
+    "index.html": "/game-word/index.html",
+    "main.bf07bcb1.css.map": "/game-word/static/css/main.bf07bcb1.css.map",
+    "main.48b2f0ef.js.map": "/game-word/static/js/main.48b2f0ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf07bcb1.css",
+    "static/js/main.48b2f0ef.js"
+  ]
+}
