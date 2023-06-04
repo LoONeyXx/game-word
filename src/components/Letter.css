@@ -1,0 +1,30 @@
+.letter {
+    font-size: 36px;
+    align-self: end;
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .letter__title {
+    margin: 0;
+    visibility: hidden;
+    opacity:0;
+    transition: all .3s linear;
+
+  }
+
+
+  .letter__border {
+    border-bottom:2px solid black;
+    width: 100%;
+  }
+
+
+  .letter__title_active {
+    visibility: visible;
+    opacity: 1;
+  }
+  
