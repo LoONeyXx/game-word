@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/game-word/static/css/main.d0bec80f.css",
-    "main.js": "/game-word/static/js/main.22d9e7cf.js",
+    "main.css": "/game-word/static/css/main.734575b8.css",
+    "main.js": "/game-word/static/js/main.149b7bea.js",
     "index.html": "/game-word/index.html",
-    "main.d0bec80f.css.map": "/game-word/static/css/main.d0bec80f.css.map",
-    "main.22d9e7cf.js.map": "/game-word/static/js/main.22d9e7cf.js.map"
+    "main.734575b8.css.map": "/game-word/static/css/main.734575b8.css.map",
+    "main.149b7bea.js.map": "/game-word/static/js/main.149b7bea.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0bec80f.css",
-    "static/js/main.22d9e7cf.js"
+    "static/css/main.734575b8.css",
+    "static/js/main.149b7bea.js"
   ]
 }
